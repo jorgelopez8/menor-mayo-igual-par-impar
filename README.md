@@ -1,1 +1,1 @@
-# menor-mayo-igual-par-impar
+# menor-mayor-igual-par-impar
